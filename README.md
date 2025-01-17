@@ -1,7 +1,9 @@
 # RecommenderSystem
 
+
 Recommender System Code
 This is a Python code for a recommender system. The code implements a proposed method for recommendation based on user ratings and item similarities. The recommender system uses collaborative filtering techniques to generate personalized recommendations for users.
+
 
 Dependencies
 csv: This module is used for reading data from a CSV file.
@@ -10,6 +12,7 @@ datetime: This module is used for working with dates and times.
 random: This module is used for generating random numbers.
 statistics: This module provides functions for statistical calculations.
 Make sure you have these dependencies installed before running the code.
+
 
 How to Use
 Ensure that you have a dataset in CSV format with the following columns: user ID, item ID, rating, and timestamp. The dataset should be named "dataset.csv".
